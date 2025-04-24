@@ -8,7 +8,7 @@
  */
 
 if ( ! defined( 'THUNDERBLOG_VERSION' ) ) {
-	define( 'THUNDERBLOG_VERSION', '1.0.20' );
+	define( 'THUNDERBLOG_VERSION', '1.0.21' );
 }
 
 // enable theme support for featured images
